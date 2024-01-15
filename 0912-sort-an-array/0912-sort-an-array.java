@@ -4,17 +4,17 @@ class Solution {
         int smallest = Integer.MAX_VALUE;
 
         // Find the largest and smallest elements in nums array
-        for (int num : nums) {
-            largest = Math.max(largest, num);
-            smallest = Math.min(smallest, num);
+        for (int i=0;i<nums.length;i++) {
+            largest = Math.max(largest, nums[i]);
+            smallest = Math.min(smallest, nums[i]);
         }
 
         int range = largest - smallest + 1;
         int count[] = new int[range];
 
         // Update count array
-        for (int num : nums) {
-            count[num - smallest]++;
+        for (int i=0;i<nums.length;i++) {
+            count[nums[i] - smallest]++;
         }
 
         int j = 0;
