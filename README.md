@@ -6,6 +6,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -22,3 +23,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+# Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
