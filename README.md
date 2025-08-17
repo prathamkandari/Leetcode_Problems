@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [2048-build-array-from-permutation](https://github.com/prathamkandari/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/prathamkandari/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
