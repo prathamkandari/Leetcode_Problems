@@ -61,4 +61,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/prathamkandari/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
