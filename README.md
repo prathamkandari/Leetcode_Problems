@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2048-build-array-from-permutation](https://github.com/prathamkandari/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamkandari/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
